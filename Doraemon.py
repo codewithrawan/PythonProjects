@@ -4,7 +4,7 @@
 from turtle import*
 
 
-def ankur(x, y):
+def rawan(x, y):
     penup()
     goto(x, y)
     pendown()
@@ -304,7 +304,7 @@ if __name__ == '__main__':
     pensize(3)
     speed(9)
     Doraemon()
-    ankur(100, -300)
+    rawan(100, -300)
     mainloop()
 
 #FOLLOW @CODEWITHRAWAN FOR MORE
