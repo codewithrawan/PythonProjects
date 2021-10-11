@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Follow me on Instagram - https://instagram.com/codewithrawan?utm_medium=copy_link
+Follow us on Instagram - https://instagram.com/codewithrawan?utm_medium=copy_link
 
-Follow on Telegram - https://t.me/codewithrawan
+Join our Telegram - https://t.me/codewithrawan
 
 Here you get all the source code
 Of videos uploaded on Instagram
